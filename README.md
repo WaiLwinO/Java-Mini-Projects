@@ -16,6 +16,9 @@ Simple Animations: Add fade and transition effects to bring each season to life.
 
 ![IMG_4072](https://github.com/user-attachments/assets/00371866-c5af-484b-b112-3f6e4210bd90)
 
+### 🎥 Demo Video
+
+https://github.com/user-attachments/assets/0b2a7190-d614-40fe-a640-27229c1f2b3a
 
 ### 🚀 Installation & Setup
 
