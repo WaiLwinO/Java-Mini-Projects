@@ -1,8 +1,8 @@
-Season Changer
+### Season Changer
 
 Season Changer is a mini project built on the JavaFX GUI platform that demonstrates interactive UI design, styling, and simple animations. I developed it as a personal hobby project to deepen my understanding of JavaFX using Apache NetBeans and Gluon Scene Builder.
 
-🌟 Features
+### 🌟 Features
 
 One-Click Season Switch: Toggle between Spring, Summer, Autumn, and Winter themes instantly.
 
@@ -12,37 +12,37 @@ CSS Styling: Apply external CSS to style backgrounds, buttons, and text.
 
 Simple Animations: Add fade and transition effects to bring each season to life.
 
-💻 Demo
+### 💻 Quick Look 
 
 ![IMG_4072](https://github.com/user-attachments/assets/00371866-c5af-484b-b112-3f6e4210bd90)
 
 
-🚀 Installation & Setup
+### 🚀 Installation & Setup
 
-Clone the repository
+- Clone the repository
 
 git clone https://github.com/WaiLwinO/season-changer.git
 cd season-changer
 
-Open in Apache NetBeans
+- Open in Apache NetBeans
 
-Launch NetBeans and select File > Open Project...
+- Launch NetBeans and select File > Open Project...
 
-Navigate to the cloned folder and open the SeasonChanger project.
+- Navigate to the cloned folder and open the SeasonChanger project.
 
-Configure JavaFX
+- Configure JavaFX
 
-Ensure you have JDK 11 (or later) installed.
+- Ensure you have JDK 11 (or later) installed.
 
-Download the JavaFX SDK from Gluon and unpack it.
+- Download the JavaFX SDK from Gluon and unpack it.
 
-In NetBeans, go to Project Properties > Libraries and add the JavaFX SDK lib folder.
+- In NetBeans, go to Project Properties > Libraries and add the JavaFX SDK lib folder.
 
-Build & Run
+- Build & Run
 
-Right-click the SeasonChanger project and choose Run.
+- Right-click the SeasonChanger project and choose Run.
 
-🛠️ Usage
+### 🛠️ Usage
 
 Launch the application; you’ll see the default season displayed.
 
@@ -50,7 +50,7 @@ Click any of the four season buttons (Spring, Summer, Autumn, Winter) to change 
 
 Observe background colors, text, and animations update accordingly.
 
-📁 Project Structure
+### 📁 Project Structure
 
 season-changer/
 ├── src/main/java/com/example/season/
@@ -63,7 +63,7 @@ season-changer/
 ├── build.gradle          # Gradle build config (if used)
 └── pom.xml               # Maven config (if used)
 
-🤝 Contributing
+### 🤝 Contributing
 
 Contributions are welcome! Whether it’s fixing typos, improving styling, or adding new features:
 
@@ -79,9 +79,7 @@ Open a Pull Request.
 
 Please follow the existing code style and include descriptive commit messages.
 
-📄 License
+### 📄 License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Created by Your Name as a JavaFX learning exercise. Feel free to ⭐ star and fork!
+This project is created by Wai Lwin OO as a JavaFX learning exercise. Feel free to ⭐ star and fork!
 
